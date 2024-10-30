@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726949208458",
+    "project_id": "music-store-c9dbd",
+    "storage_bucket": "music-store-c9dbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726949208458:android:bdb70915704dd7aaf16873",
+        "android_client_info": {
+          "package_name": "cl.nicolascberna.musicstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpomcGlwd1kI0IiNRXfbph9o855dRe8MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
